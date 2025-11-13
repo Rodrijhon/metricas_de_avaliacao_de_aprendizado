@@ -27,16 +27,17 @@ FN – Falsos Negativos
 
 No projeto, você pode escolher livremente os valores da matriz de confusão, pois o objetivo é aprender a calcular cada métrica.
 
-🧑‍💻 1. Como executar o projeto no Google Colab
-✔ Passo 1 — Acesse o Google Colab
+ 1. Como executar o projeto no Google Colab
+
+Passo 1 — Acesse o Google Colab
 
 Abra o link: https://colab.research.google.com/
 
-✔ Passo 2 — Crie um novo notebook
+Passo 2 — Crie um novo notebook
 
 Clique em File → New Notebook (Arquivo → Novo Notebook)
 
-✔ Passo 3 — Copie o código abaixo para uma célula
+Passo 3 — Copie o código abaixo para uma célula
 # Projeto Final - Módulo 4
 # Cálculo das principais métricas de avaliação
 
